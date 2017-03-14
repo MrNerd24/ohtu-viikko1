@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ohtu.ohtuvarasto.VarastoTest" tests="16" skipped="0" failures="0" errors="0" timestamp="2017-03-14T10:45:43" hostname="HpEnvy" time="0.008">
+  <properties/>
+  <testcase name="ottaminenPalauttaaOikeanMaaran" classname="ohtu.ohtuvarasto.VarastoTest" time="0.003"/>
+  <testcase name="lisaysLisaaPienentaaVapaataTilaa" classname="ohtu.ohtuvarasto.VarastoTest" time="0.0"/>
+  <testcase name="lisaysLisaaSaldoa" classname="ohtu.ohtuvarasto.VarastoTest" time="0.001"/>
+  <testcase name="konstruktoriAlkusaldollaToimii" classname="ohtu.ohtuvarasto.VarastoTest" time="0.0"/>
+  <testcase name="konstruktoriAlkusaldollaNegatiivinenTilavuus" classname="ohtu.ohtuvarasto.VarastoTest" time="0.0"/>
+  <testcase name="toStringToimii" classname="ohtu.ohtuvarasto.VarastoTest" time="0.001"/>
+  <testcase name="konstruktoriAlkusaldollaNegatiivinenSaldo" classname="ohtu.ohtuvarasto.VarastoTest" time="0.0"/>
+  <testcase name="EiVoiOttaaNegatiivistaMaaraa" classname="ohtu.ohtuvarasto.VarastoTest" time="0.0"/>
+  <testcase name="konstruktoriAlkusaldollaSaldoVahemmanKuinTilavuus" classname="ohtu.ohtuvarasto.VarastoTest" time="0.0"/>
+  <testcase name="ottaminenLisÃ¤Ã¤Tilaa" classname="ohtu.ohtuvarasto.VarastoTest" time="0.0"/>
+  <testcase name="EiVoiLisaaNegatiivistaMaaraa" classname="ohtu.ohtuvarasto.VarastoTest" time="0.0"/>
+  <testcase name="negatiivinenTilavuusOnSamaKuin0" classname="ohtu.ohtuvarasto.VarastoTest" time="0.001"/>
+  <testcase name="EiVoiOttaaLiikaaSaldoa" classname="ohtu.ohtuvarasto.VarastoTest" time="0.0"/>
+  <testcase name="EiVoiLisaaLiikaaSaldoa" classname="ohtu.ohtuvarasto.VarastoTest" time="0.0"/>
+  <testcase name="uudellaVarastollaOikeaTilavuus" classname="ohtu.ohtuvarasto.VarastoTest" time="0.0"/>
+  <testcase name="konstruktoriLuoTyhjanVaraston" classname="ohtu.ohtuvarasto.VarastoTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
